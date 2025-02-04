@@ -1,5 +1,7 @@
 <h2 align="center"> Contact to me </h2>
-<div>dongwook443@yonsei.ac.kr</div>
+<div align="center">
+  <a href="mailto:dongwook443@yonsei.ac.kr">Send an e-mail to me</a>
+</div>
 
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
