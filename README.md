@@ -28,3 +28,11 @@
 </div>
 
 <br>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/800450683473590284/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+</a>
